@@ -1,66 +1,26 @@
-# ☕ Coffee Sales Analysis Dashboard
+🚀 Coffee Sales Analysis Dashboard | Power BI Project ☕
 
-## 📊 Project Overview
-This project presents an interactive **Coffee Sales Analysis Dashboard** built using **Power BI**.  
-It helps analyze sales performance, customer behavior, and product trends to generate meaningful business insights.
+Excited to share my latest Power BI dashboard where I analyzed coffee shop sales data to uncover meaningful business insights!
 
----
+🔍 Key Highlights:
+• Total Revenue: 112K+ with 3,547 orders analyzed
+• Identified Top Selling Coffee – Latte ☕
+• Analyzed Peak Sales Hours and customer buying patterns
+• Discovered best performing days (Tuesday highest sales)
+• Built interactive visuals for monthly, hourly, and category-wise analysis
 
-## 🚀 Key Insights
-- 💰 Total Revenue: **112K+**
-- 🧾 Total Orders: **3,547**
-- ☕ Top Selling Product: **Latte**
-- ⏰ Peak Sales Hours identified
-- 📅 Best Sales Day: **Tuesday**
+📊 Features:
+• KPI Cards for quick insights
+• Time-based trend analysis (Year, Month, Hour)
+• Dynamic filters (Date & Weekday slicers)
+• Clean and aesthetic coffee-themed UI design
 
----
+💡 This project helped me strengthen my skills in:
+Power BI | DAX | Data Modeling | Data Visualization | Dashboard Design
 
-## 📈 Dashboard Features
-- KPI Cards for quick business insights  
-- Time-based analysis (Year, Month, Hour)  
-- Product category-wise performance  
-- Interactive slicers (Date & Weekday)  
-- Clean and coffee-themed UI design  
+Looking forward to your feedback and suggestions! 🙌
 
----
-
-## 🛠️ Tools & Technologies
-- Power BI  
-- DAX (Data Analysis Expressions)  
-- Excel (Data Source)  
-- Data Modeling  
-
----
-
-## 📂 Project Files
-- `Coffee Sales Analysis.pbix` → Power BI Dashboard  
-- `Coffe_sales.xlsx` → Dataset  
-- `Coffee_logo.jpg` → Logo  
-- `dashboard.png` → Dashboard Preview  
-
----
-
-![Uploading Screenshot 2026-03-27 175353.png…]()
+#PowerBI #DataAnalytics #DataVisualization #Dashboard #BusinessIntelligence #DataAnalyst #PortfolioProject #DAX #LearningJourney 🚀
 
 
----
-
-## 💡 Skills Gained
-- Data Visualization  
-- Dashboard Design  
-- Business Insights Generation  
-- Data Modeling & DAX  
-
----
-
-## 🔗 GitHub Repository
-👉 https://github.com/Gnani124/Coffee_Sales
-
----
-
-## 🙌 Connect with Me
-If you like this project, feel free to connect and give feedback!
-
----
-
-⭐ Don't forget to star this repository if you found it useful!
+<img width="1508" height="790" alt="Screenshot 2026-03-27 175353" src="https://github.com/user-attachments/assets/80285e58-c5c9-462e-9412-8e6059d430a2" />
